@@ -40,7 +40,7 @@ ZHVI represents the typical home value (35th–65th percentile) using Zillow’s
 
 ---
 
-## 🔧 Methods & Tools  
+## Methods & Tools  
 - **Python (Google Colab)**  
 - **Pandas** for data loading, cleaning, and descriptive statistics  
 - **Matplotlib** for visualizations  
@@ -48,7 +48,7 @@ ZHVI represents the typical home value (35th–65th percentile) using Zillow’s
 
 ---
 
-## 📈 Key Analyses  
+## Key Analyses  
 - Summary statistics (mean, median, mode, std, range)  
 - Missing value identification  
 - Distribution analysis  
@@ -59,7 +59,7 @@ ZHVI represents the typical home value (35th–65th percentile) using Zillow’s
 
 ---
 
-## ▶️ How to Run the Notebook  
+## How to Run the Notebook  
 You can open the notebook directly in Google Colab:
 
 1. Navigate to the notebook in this repository.  
