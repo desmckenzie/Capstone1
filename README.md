@@ -1,6 +1,6 @@
 # Capstone 1: U.S. Housing Market Analysis  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/desmckenzie/Capstone1/blob/main/Capstone1_Destiny_McKenzie.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/desmckenzie/Capstone1/blob/main/Capstone1_Destiny_McKenzie.ipynb)
 ---
 
 ## Project Overview  
